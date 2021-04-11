@@ -1,4 +1,4 @@
-# vincentvancouver.github.io
+# Splinter-d
 
 Welcome to Splinter-d
 
